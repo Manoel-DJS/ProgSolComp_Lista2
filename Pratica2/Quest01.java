@@ -1,6 +1,11 @@
 /** 
 
-Faça um programa que leia dois números A e B e imprima o maior
+Nome do Aluno: Manoel Vinicius Silva Souza
+RA: 722315125
+Data: 21 / 05 / 2023
+
+Nome do Programa:
+1. Faça um programa que leia dois números A e B e imprima o maior
 deles.
 
 **/
