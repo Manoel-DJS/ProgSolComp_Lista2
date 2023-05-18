@@ -11,8 +11,15 @@ superiores a -1000. (utilize do / while)
 **/
 package Pratica2;
 
+
 public class Quest17 {
     public static void main(String[] args) {
+        
+        int c = -7;
+        do{
+            System.out.println(c);
+            c-=7;
+        }while(c > -1000);
         
     }
 }
