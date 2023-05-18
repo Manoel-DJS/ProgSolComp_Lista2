@@ -24,5 +24,6 @@ public class Quest16 {
             numero = scanner.nextInt();
         }
 
+        scanner.close();
     }    
 }
