@@ -24,9 +24,9 @@ public class Quest21 {
         int numeroT = scanner.nextInt();
         
         scanner.close();
-        System.out.println("Número digitado: " + numeroT);
+        System.out.println("Tabuada do " + numeroT);
         for(int c = 1; c <= numeroT; c++){
-            System.out.printf("Tabuada: %d x %d: %d \n" , numeroT,c,(numeroT*c));
+            System.out.printf("%d x %d: %d \n" , numeroT,c,(numeroT*c));
         }
 
         
